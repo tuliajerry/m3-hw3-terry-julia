@@ -1,13 +1,13 @@
 <header>
   <h1>Fall Out Boy</h1>
   <nav>
-  <a href="/About the Band/">About</a> |
-  <a href="/Discography/">Discography</a> 
+           <a href="/About the Band/">About</a> |
+           <a href="/Discography/">Discography</a> 
 
 </nav>
   </nav>
   
-<img src="assets/fob.jpg" alt="An image of the band members" width="250" height="200">  
+<img src="assets/fob.jpg" alt="An image of the band members" width="400" height="250">  
 
 </header>
 <main>
