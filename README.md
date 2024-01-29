@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <header>
   <h1>Fall Out Boy</h1>
   <nav>
@@ -31,7 +32,7 @@
  
 </main>
     
-    
+<html>    
 <footer>
   <p></p>
 </footer>
