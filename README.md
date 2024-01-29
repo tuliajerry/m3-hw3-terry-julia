@@ -18,7 +18,7 @@
   </header>
   <section> 
     <h2>Discography</h2>
-     <div id="About the Band"></div>
+     <div id="Discography"></div>
      
    <p>Take This to Your Grave- May 6, 2003</p>
     <p>From Under the Cork Tree- May 3, 2005</p>
