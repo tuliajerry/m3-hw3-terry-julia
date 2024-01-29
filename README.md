@@ -43,6 +43,8 @@
   </section>
  
 </main>
+<img width="558" alt="Screen Shot 2024-01-28 at 9 09 30 PM" src="https://github.com/tuliajerry/m3-hw3-terry-julia/assets/156032724/2b84dfe2-7ca0-4cbe-ab56-3f32f4abfd6e">
+
     
 <html>    
 <footer>
