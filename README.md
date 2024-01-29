@@ -7,7 +7,7 @@
 </nav>
   </nav>
   
-![A photo of the band](/least-github-pages/assets/fob.jpg)
+<img src="assets/fob.jpg" alt="An image of the band members" width="250" height="200">  
 
 </header>
 <main>
