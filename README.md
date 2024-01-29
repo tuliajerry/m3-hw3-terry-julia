@@ -33,5 +33,5 @@
     
     
 <footer>
-  <p>Julia Terry - Fall out Boy</p>
+  <p></p>
 </footer>
