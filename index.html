@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<html>
+<meta name="Fall Out Boy" content="About the band Fall Out Boy. Includes their accomplishments, discography, and evolution over time.">
+	
 <header>
   <h1>Fall Out Boy</h1>
   <nav>
