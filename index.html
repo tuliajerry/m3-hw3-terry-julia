@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
 <meta name="Fall Out Boy" content="About the band Fall Out Boy. Includes their accomplishments, discography, and evolution over time.">
-	
+
+ <html>
+	  <font size="2">  
+		All about the band Fall Out Boy
+		</html>
+	  </font>
 <header>
+	 <font size="7">  
   <h1>Fall Out Boy</h1>
   <nav>
   <a href="#About the Band">About</a> |
   <a href="Discography">Discography</a> 
-
+  </font>
 </nav>
   </nav>
   
