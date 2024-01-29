@@ -17,7 +17,7 @@
 </nav>
   </nav>
   
-<img src="assets/fob.jpg" alt="An image of the band members" width="400" height="250">  
+<img src="assets/fob.jpg" alt="An image of the band members" width="600" height="350">  
 
 </header>
 <main>
